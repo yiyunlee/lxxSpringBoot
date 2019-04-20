@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: yiyunLee
+Build-Jdk: 11.0.2
+Implementation-Title: lxxSpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tim
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/lxxSpringBoot
+Created-By: Maven Integration for Eclipse
+
